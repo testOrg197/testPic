@@ -6,4 +6,7 @@
 
 ![banner](./banner.png)
 
-![banner](./banner.png)
+![stumped](./stumpedJohn.png)
+
+![bank](./stumpedJohn.png)
+![journal](./stumpedJohn.png)
